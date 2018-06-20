@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/malachi/.platformio/penv/bin:/home/malachi/.platformio/penv:/home/malachi/bin:/home/malachi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
